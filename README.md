@@ -1,1 +1,3 @@
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue)](https://portfolio-w9e1.vercel.app/)
+## 🌐 Portfolio
+
+Check out my portfolio: [Click Here](https://portfolio-w9e1.vercel.app/)
